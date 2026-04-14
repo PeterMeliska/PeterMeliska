@@ -17,4 +17,5 @@ Technicky orientovaný profesionál so záujmom o dátovú analytiku, SQL, Pytho
 - Power BI
 - Tableau
 - Databázové riešenia
+- Spark
 
